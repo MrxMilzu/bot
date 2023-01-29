@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/kahfiofc'
-global.syt = 'https://www.youtube.com/@MaxxyBotz'
-global.sgh = 'https://github.com/Frezzy-XD'
-global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
-global.swa = 'wa.me/6285380166282'
+global.sig = 'https://instagram.com/avxmilx_itsme_zoo'
+global.syt = 'https://www.youtube.com/@Milzu-XD'
+global.sgh = 'https://github.com/MrxMilzu'
+global.sgc = 'https://chat.whatsapp.com/J8wu79WZRFMEGgoAsghFBF'
+global.swa = 'wa.me/6283182713104'
 global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085380166282'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.pdana = '083182713104'
+global.povo = 'Ngaa Ada tod'
+global.pgopay = '083182713104'
+global.ppulsa = '083182713104'
+global.ppulsa2 = '083182713104'
+global.psaweria = 'Ngak Ada Tod'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'Maxxy Botz'
-global.nameown = 'Blitz-XD'
+global.nomorbot = '083182713104'
+global.nomorown = '083182713104'
+global.namebot = 'Milzu-Tod'
+global.nameown = 'MilzuNesian'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'Blitz-XD', 'true']
+  ['083182713104', 'Milzu-Tod', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By MaxxyBotz' //Main Watermark
-global.wm2 = 'MaxxyBotz'
-global.wm3 = 'MaxxyBotz | By Blitz-XD'
+global.wm = 'By Milzu' //Main Watermark
+global.wm2 = 'Miley/Milzu'
+global.wm3 = 'Miley Nesia | Milzu Nesia'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `MaxxyBotz | ʙʏ ${global.nameown}`
-global.author = 'Blitz-XD' 
-global.packname = 'Maxxy Botz'
+global.titlebot = `miley | ʙʏ ${global.nameown}`
+global.author = 'miley' 
+global.packname = 'miley | milzu'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'Juli 01 2023'
 
 
 /*============== LOGO ==============*/
@@ -126,11 +126,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya MaxxyBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh KAHFI XD Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Blitz'
-global.umurowner = '19'
-global.asalowner = 'Japanes, Jonggol'
-global.nomorowner = 'wa.me/6285380166282'
-global.pacarowner = 'kepo'
+global.nameowner = 'miley'
+global.umurowner = '18'
+global.asalowner = 'Japanes, ciekepo'
+global.nomorowner = 'wa.me/083182713104'
+global.pacarowner = 'ngak ada😔 | karena gak suka pacaran 🙃'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
